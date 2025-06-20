@@ -1,1 +1,1 @@
-# Grow-a-Garden
+# GrowaGarden
